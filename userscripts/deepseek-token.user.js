@@ -4,7 +4,7 @@
 // @version      1.0.0
 // @description  Popup otomatis di chat.deepseek.com untuk menyalin userToken akunmu — siap pakai untuk endpoint DeepSeek PuruBoy API.
 // @author       PuruBoy
-// @icon         https://puruboy-api.vercel.app/favicon.jpg
+// @icon         fa-key
 // @match        https://chat.deepseek.com/*
 // @run-at       document-idle
 // @grant        GM_addStyle
